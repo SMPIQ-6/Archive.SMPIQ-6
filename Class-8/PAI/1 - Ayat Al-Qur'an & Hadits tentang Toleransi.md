@@ -5,6 +5,7 @@
 * **Bab:** 1
 * **Tanggal:** Senin, 3 Agustus 2026
 * **Materi:** Ayat Al-Qur'an dan Hadis tentang Toleransi
+* **Pemateri:** Ustadz R, S.H.
 * **Status:** Belum diketahui
 
 ---
@@ -51,4 +52,4 @@
 ### Kredibilitas Materi: [X]
 ### Kontributor:
   * Iqbal G.I. (Penulis, Perangkum)
-
+  * Deepseek (Artificial Intelligence, Perbaikan Kalimat & Penyusun Ulang Struktur Materi)
