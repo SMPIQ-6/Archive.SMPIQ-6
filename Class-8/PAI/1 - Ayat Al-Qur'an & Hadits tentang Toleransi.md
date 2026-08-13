@@ -51,5 +51,5 @@
 
 ### Kredibilitas Materi: [X]
 ### Kontributor:
-  * Iqbal G.I. (Penulis, Perangkum)
-  * Deepseek (Artificial Intelligence, Perbaikan Kalimat & Penyusun Ulang Struktur Materi)
+  * **Iqbal G.I.** (Penulis, Perangkum)
+  * **Deepseek LLM.** (Artificial Intelligence, Perbaikan Kalimat & Penyusun Ulang Struktur Materi)
