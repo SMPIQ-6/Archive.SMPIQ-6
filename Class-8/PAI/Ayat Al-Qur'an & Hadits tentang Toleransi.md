@@ -10,10 +10,6 @@
 
 # Ayat Al-Qur'an & Hadits tentang Toleransi
 
-
-
----
-
 ## A. QS. Al-Baqarah: 256
 
 ### Isi Ayat (Arab)
