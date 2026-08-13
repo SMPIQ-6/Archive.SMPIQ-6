@@ -24,4 +24,4 @@ Mengenal islam dengan dalil syar'i yang kokoh
 
 ### Kredibilitas Materi: [X]
 ### Kontributor:
-  * Iqbal G.I. (Penulis, Perangkum, Penyusun Ulang Struktur Materi)
+  * **Iqbal G.I.** (Penulis, Perangkum, Penyusun Ulang Struktur Materi)
