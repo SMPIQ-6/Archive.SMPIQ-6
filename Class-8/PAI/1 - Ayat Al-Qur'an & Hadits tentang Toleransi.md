@@ -5,6 +5,7 @@
 * **Bab:** 1
 * **Tanggal:** Senin, 3 Agustus 2026
 * **Materi:** Ayat Al-Qur'an dan Hadis tentang Toleransi
+* **Status:** Belum diketahui
 
 ---
 
