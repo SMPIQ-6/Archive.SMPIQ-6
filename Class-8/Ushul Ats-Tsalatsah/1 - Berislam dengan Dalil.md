@@ -5,6 +5,7 @@
 * **Bab:** 1
 * **Tanggal:** Selasa, 21 Juli 2026 & Selasa, 28 Juli 2026
 * **Materi:** Berislam dengan Dalil
+* **Pemateri:** Ustadz H
 * **Status:** Belum diketahui
 
 ---
@@ -23,4 +24,4 @@ Mengenal islam dengan dalil syar'i yang kokoh
 
 ### Kredibilitas Materi: [X]
 ### Kontributor:
-  * Iqbal G.I. (Penulis, Perangkum)
+  * Iqbal G.I. (Penulis, Perangkum, Penyusun Ulang Struktur Materi)
