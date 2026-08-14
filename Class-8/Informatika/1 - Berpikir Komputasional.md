@@ -50,9 +50,9 @@
 
   **Himpunan Data Terstruktur** juga dapat digunakan untuk memecahkan persoalan logika dengan memanfaatkan operasi himpunan agar lebih terorganisir.
   ### Operasi Himpunan
-  * Gabungan - Semua anggota dari semua himpunan
-  * Irisan - Anggota yang sama
-  * Selisih - Anggota yang hanya ada pada salah satu himpunan
+  * Gabungan (∪) &ndash; Semua anggota dari semua himpunan
+  * Irisan (∩) &ndash; Anggota yang sama
+  * Selisih (–)  &ndash; Anggota yang hanya ada pada salah satu himpunan
 
 <h2 id="representasi-bilangan">Representasi Bilangan</h2>
 
