@@ -8,6 +8,11 @@
 * **Pemateri:** Ustadz S, S.Kom., Gr.
 * **Status:** Belum diketahui
 
+---
+
+## Dalam Materi Ini
+* [Fungsi Komputasi](https://github.com/IQISIqbal/Archive.SMPIQ-6/edit/master/Class-8/Informatika/1%20-%20Berpikir%20Komputasional.md#fungsi-komputasi)
+
 > [!NOTE]
 > Mengapa BAB 2 didahulukan sebelum BAB 1? Menurut jawaban dari Pemateri bahwa:
 >> "...Karena fasilitas komputer kita yang masih belum memadai dan BAB 1 itu kebanyakan praktik, jadi saya dahulukan BAB 2 dulu..."
