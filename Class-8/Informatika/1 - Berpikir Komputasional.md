@@ -40,6 +40,31 @@
   * Irisan - Anggota yang sama
   * Selisih - Anggota yang hanya ada pada salah satu himpunan
 
+## Representasi Bilangan
+  **Representasi bilangan** adalah cara menuliskan atau menyatakan suatu angka menggunakan sistem bilangan tertentu, seperti desimal, biner, oktal, dan heksadesimal. Walaupun penulisannya berbeda, nilai bilangannya tetap sama.
+
+| Desimal (Basis 10) | Biner (Basis 2) |
+| :----------------- | :-------------- |
+| Sistem bilangan yang paling sering digunakan sehari-hari. <br> **Ciri-ciri:** <br><ul><li>Basis = 10</li><li>Digit = 0-9</li><li>Contoh: 25, 125, 2024</li></ul><center>Contoh: 2024<sub>10</sub></center>
+<table>
+  <thead>
+    <tr>
+      <th>Desimal (Basis 10)</th>
+      <th>Biner (Basis 2)</th>
+    </tr>
+    
+  </thead>
+  <tbody>
+    <tr>
+      <tr>
+        <td>Sistem bilangan yang paling sering digunakan sehari-hari<br>
+      <b>Ciri-ciri:</b></td>
+     
+    </tr>
+  </tbody>
+</table>
+
+  
 ---
 
 ### Kredibilitas Materi: [X]
