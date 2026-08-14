@@ -12,11 +12,11 @@
 
 # Ayat Al-Qur'an & Hadits tentang Toleransi
 
-## A. QS. Al-Baqarah: 256
+<h2 id="al-baqarah256">QS. Al-Baqarah: 256</h2>
 
 ### Isi Ayat (Arab)
 
-> لَآ اِكْرَاهَ فِى الدِّيْنِۗ قَدْ تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّۚ فَمَنْ يَّكْفُرْ بِالطَّاغُوْتِ وَيُؤْمِنْۢ بِاللّٰهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقٰى لَا انْفِصَامَ لَهَاۗ وَاللّٰهُ سَمِيْعٌ عَلِيْمٌ ۝٢٥٦
+> ## لَآ اِكْرَاهَ فِى الدِّيْنِۗ قَدْ تَّبَيَّنَ الرُّشْدُ مِنَ الْغَيِّۚ فَمَنْ يَّكْفُرْ بِالطَّاغُوْتِ وَيُؤْمِنْۢ بِاللّٰهِ فَقَدِ اسْتَمْسَكَ بِالْعُرْوَةِ الْوُثْقٰى لَا انْفِصَامَ لَهَاۗ وَاللّٰهُ سَمِيْعٌ عَلِيْمٌ ۝٢٥٦
 
 ### Arti Ayat
 
@@ -24,28 +24,37 @@
 
 ### Arti Per Kata (Terpotong)
 
-| No. | Lafaz            | Arti                               |
-| --: | ---------------- | ---------------------------------- |
-|   1 | لَآ اِكْرَاهَ     | Tidak ada paksaan                  |
-|   2 | فِى        | Dalam                              |
-|   3 | الدِّيْنِۗ       | (Menganut) agama (Islam)           |
-|   4 | قَدْ         | Sesungguhnya                       |
-|   5 | تَّبَيَّنَ        | Telah jelas (perbedaan)            |
-|   6 | الرُّشْدُ       | Antara jalan yang benar            |
-|   7 | مِنَ         | Dengan                             |
-|   8 | الْغَيِّۚ        | Jalan yang sesat                   |
-|   9 | فَمَنْ        | Maka barangsiapa                   |
-|  10 | يَّكْفُرْ        | (Yang) ingkar                      |
-|  11 | بِالطَّاغُوْتِ     | Kepada Tagut                       |
-|  12 | وَيُؤْمِنْۢ       | Dan beriman                        |
-|  13 | بِاللّٰهِ        | Kepada Allah                       |
-|  14 | فَقَدِ         | Maka sesungguhnya                  |
-|  15 | اسْتَمْسَكَ      | Ia berpegang (teguh)               |
-|  16 | بِالْعُرْوَةِ      | Pada tali                          |
-|  17 | الْوُثْقٰى       | Yang sangat kuat                   |
-|  18 | لَا انْفِصَامَ لَهَاۗ  | Yang tidak akan putus              |
-|  19 | وَاللّٰهُ        | Dan Allah                          |
-|  20 | سَمِيْعٌ عَلِيْمٌ    | Maha Mendengar dan Maha Mengetahui |
+<table border="1" cellspacing="0" cellpadding="6">
+  <thead>
+    <tr>
+      <th>No.</th>
+      <th>Lafaz</th>
+      <th>Arti</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>لَآ اِكْرَاهَ</td><td>Tidak ada paksaan</td></tr>
+    <tr><td>2</td><td>فِى</td><td>Dalam</td></tr>
+    <tr><td>3</td><td>الدِّيْنِۗ</td><td>(Menganut) agama (Islam)</td></tr>
+    <tr><td>4</td><td>قَدْ</td><td>Sesungguhnya</td></tr>
+    <tr><td>5</td><td>تَّبَيَّنَ</td><td>Telah jelas (perbedaan)</td></tr>
+    <tr><td>6</td><td>الرُّشْدُ</td><td>Antara jalan yang benar</td></tr>
+    <tr><td>7</td><td>مِنَ</td><td>Dengan</td></tr>
+    <tr><td>8</td><td>الْغَيِّۚ</td><td>Jalan yang sesat</td></tr>
+    <tr><td>9</td><td>فَمَنْ</td><td>Maka barangsiapa</td></tr>
+    <tr><td>10</td><td>يَّكْفُرْ</td><td>(Yang) ingkar</td></tr>
+    <tr><td>11</td><td>بِالطَّاغُوْتِ</td><td>Kepada Tagut</td></tr>
+    <tr><td>12</td><td>وَيُؤْمِنْۢ</td><td>Dan beriman</td></tr>
+    <tr><td>13</td><td>بِاللّٰهِ</td><td>Kepada Allah</td></tr>
+    <tr><td>14</td><td>فَقَدِ</td><td>Maka sesungguhnya</td></tr>
+    <tr><td>15</td><td>اسْتَمْسَكَ</td><td>Ia berpegang (teguh)</td></tr>
+    <tr><td>16</td><td>بِالْعُرْوَةِ</td><td>Pada tali</td></tr>
+    <tr><td>17</td><td>الْوُثْقٰى</td><td>Yang sangat kuat</td></tr>
+    <tr><td>18</td><td>لَا انْفِصَامَ لَهَاۗ</td><td>Yang tidak akan putus</td></tr>
+    <tr><td>19</td><td>وَاللّٰهُ</td><td>Dan Allah</td></tr>
+    <tr><td>20</td><td>سَمِيْعٌ عَلِيْمٌ</td><td>Maha Mendengar dan Maha Mengetahui</td></tr>
+  </tbody>
+</table>
 
 ---
 
@@ -54,3 +63,4 @@
 ### Kontributor:
   * **Iqbal G.I.** (Penulis, Perangkum)
   * **Deepseek LLM.** (Artificial Intelligence, Perbaikan Kalimat & Penyusun Ulang Struktur Materi)
+  * **Microsoft Copilot** (Artificial Intelligence, Perbaikan Struktur)
