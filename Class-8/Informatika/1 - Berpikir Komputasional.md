@@ -20,11 +20,13 @@
 > [!NOTE]
 > Mengapa BAB 2 didahulukan sebelum BAB 1? Menurut jawaban dari Pemateri bahwa:
 >> "...Karena fasilitas komputer kita yang masih belum memadai dan BAB 1 itu kebanyakan praktik, jadi saya dahulukan BAB 2 dulu..."
+
 ---
 
 # Berpikir Komputasional
 
 <h2 id="fungsi-komputasi">Fungsi Komputasi</h2>
+
   Dalam Informatika, **Fungsi** adalah mekanisme yang menerima masukan (input), mengolah (proses), kemudian menghasilkan keluaran (output). Serupa dengan proses komputasi. <br> Salah satu contoh sederhana:
 1. Input - Nilai Siswa
 2. Proses - Menghitung nilai rata-rata
@@ -33,9 +35,11 @@
 <img src="../img/informatika-1-flowchart.png" alt="Contoh Flowchart" width="100%">
 
 <h2 id="himpunan">Himpunan</h2>
+
   **Himpunan** adalah kumpulan objek yang memiliki kesamaan ciri yang jelas sehingga dapat ditentukan apakah termasuk elemen/individu dalam sebuah himpunan atau tidak.
 
 <h2 id="data-terstruktur">Data Terstruktur</h2>
+
   **Data Terstruktur** adalah data yang tersusun secara rapi sehingga mudah dibaca dan diolah. <br> Berikut ialah manfaatnya:
   1. Mudah dicari
   2. Mudah diolah
@@ -43,6 +47,7 @@
   4. Mengurangi kesalahan
 
 <h2 id="persoalan-logika-dengan-himpunan">Persoalan Logika dengan Himpunan</h2>
+
   **Himpunan Data Terstruktur** juga dapat digunakan untuk memecahkan persoalan logika dengan memanfaatkan operasi himpunan agar lebih terorganisir.
   ### Operasi Himpunan
   * Gabungan - Semua anggota dari semua himpunan
@@ -50,6 +55,7 @@
   * Selisih - Anggota yang hanya ada pada salah satu himpunan
 
 <h2 id="representasi-bilangan">Representasi Bilangan</h2>
+
   **Representasi bilangan** adalah cara menuliskan atau menyatakan suatu angka menggunakan sistem bilangan tertentu, seperti desimal, biner, oktal, dan heksadesimal. Walaupun penulisannya berbeda, nilai bilangannya tetap sama.
 
 <table>
