@@ -10,6 +10,12 @@
 
 ---
 
+## Di Materi Ini
+
+* [Al-Baqarah: 256](#al-baqarah256)
+
+---
+
 # Ayat Al-Qur'an & Hadits tentang Toleransi
 
 <h2 id="al-baqarah256">QS. Al-Baqarah: 256</h2>
