@@ -11,7 +11,7 @@
 ---
 
 ## Dalam Materi Ini
-* [Fungsi Komputasi](https://github.com/IQISIqbal/Archive.SMPIQ-6//Class-8/Informatika/1%20-%20Berpikir%20Komputasional.md#fungsi-komputasi)
+* [Fungsi Komputasi](https://github.com/IQISIqbal/Archive.SMPIQ-6/blob/master/Class-8/Informatika/1%20-%20Berpikir%20Komputasional.md#fungsi-komputasi)
 
 > [!NOTE]
 > Mengapa BAB 2 didahulukan sebelum BAB 1? Menurut jawaban dari Pemateri bahwa:
