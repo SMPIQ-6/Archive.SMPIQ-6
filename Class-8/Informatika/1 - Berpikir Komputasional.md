@@ -55,7 +55,7 @@
   <tbody>
     <tr>
       <!-- DESIMAL -->
-       <td>Sistem bilangan yang paling sering <br>digunakan sehari-hari<br>
+       <td valign="top">Sistem bilangan yang paling sering <br>digunakan sehari-hari.<br>
          <b>Ciri-ciri:</b>
          <ul>
          <li>
@@ -95,7 +95,7 @@
         </table>
       </td>
       <!-- BINER -->
-      <td> Sistem bilangan yang digunakan komputer karena hanya mengenal 2 keadaan (1 dan 0)<br>
+      <td valign="top"> Sistem bilangan yang digunakan komputer karena hanya mengenal 2 keadaan (1 dan 0).<br>
         <b>Ciri-ciri:</b>
         <ul>
           <li>Basis</li>
@@ -129,7 +129,7 @@
         </table>
       </td>
       <!-- OKTAL -->
-      <td> Sistem bilangan dengan basis 8, menggunakan digit 0-7
+      <td valign="top"> Sistem bilangan dengan basis 8, menggunakan digit 0-7.<br>
         <b>Ciri-ciri:</b>
         <ul>
           <li>Basis = 8</li>
@@ -157,7 +157,7 @@
           </tbody>
         </table>
       </td>
-      <td>Sistem bilangan dengan basis 16, menggunakan digit 0-9 dan A-F
+      <td valign="top">Sistem bilangan dengan basis 16, menggunakan digit 0-9 dan A-F.<br>
         <b>Ciri-ciri:</b>
         <ul>
           <li>Basis = 16</li>
@@ -188,7 +188,6 @@
   </tbody>
 </table>
 
-  
 ---
 
 ### Kredibilitas Materi: [X]
