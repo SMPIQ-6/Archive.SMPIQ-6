@@ -256,7 +256,7 @@
 ### Kredibilitas Materi: [X]
 
 ### Referensi:
-  [^1]
+  [^1]:
   * Suryodiningrat, S. P., Permana, N. V., Qomariyah, N. N., & Subeno, B. (2025). *Informatika untuk SMP/MTs Kelas VIII*. Penerbit Erlangga
 
 ### Kontributor:
