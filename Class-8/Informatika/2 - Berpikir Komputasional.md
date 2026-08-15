@@ -5,7 +5,7 @@
 * **Bab:** 2
 * **Tanggal:** Senin, 31 Juli 2026
 * **Materi:** Berpikir Komputasional
-* **Pemateri:** Ustadz S, S.Kom., Gr.
+* **Pemateri:** Ustadz Syaiful, S.Kom., Gr.
 * **Status:** Belum diketahui
 
 ---
