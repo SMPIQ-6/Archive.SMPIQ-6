@@ -58,7 +58,7 @@
 <img src="../img/informatika-2-2-operasihimpunan.png" alt="Contoh Flowchart" width="500px">
 
   > [!IMPORTANT]
-  > Karena adanya perbedaan antara materi tercatat dengan buku referensi yaitu bagian Komplemen. Berikut penjelasannya:<br><br>**Komplemen** = anggota semesta yang **bukan** anggota himpunan.<br>**Contoh**<br>Semesta S = {1, 2, 3, 4, 5}<br>Himpunan A = {1, 2, 3}<br>Maka A' atau Komplemen dari A = {4, 5}<br><br>**Sifat Penting**<br><ul><li>(A')' = A</li><li>A ∪ A' = S</li><li>A ∩ A' = Ø</li></ul>
+  > Karena adanya perbedaan antara materi tercatat dengan buku referensi yaitu bagian Komplemen. Berikut penjelasannya:<br><br>**Komplemen** = anggota semesta yang **bukan** anggota himpunan.<br><br>**Contoh**<br>Semesta S = {1, 2, 3, 4, 5}<br>Himpunan A = {1, 2, 3}<br>Maka A' atau Komplemen dari A = {4, 5}<br><br>**Sifat Penting**<br><ul><li>(A')' = A</li><li>A ∪ A' = S</li><li>A ∩ A' = Ø</li></ul>
 
 <h2 id="representasi-bilangan">Representasi Bilangan</h2>
 
