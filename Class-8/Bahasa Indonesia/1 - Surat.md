@@ -6,7 +6,7 @@
 * **Tanggal:** Senin, 28 Juli 2026
 * **Materi:** Surat
 * **Pemateri:** Ustadzah S, S.Pd.
-* **Status:** Belum diketahui
+* **Status:** Belum diverifikasi
 
 ## Di Materi Ini
 * [Pengertian Surat](#pengertian-surat)
@@ -54,7 +54,7 @@ Surat adalah sarana komunikasi tertulis yang digunakan untuk menyampaikan inform
 </table>
 
 > [!IMPORTANT]
-> **Surat Resmi** memiliki cakupan yang luas, bisa untuk instansi, organisasi, & individu, sedangkan **Surat Dinas** memiliki cakupan lebih sempit yang terkhusus pada urusan kedinasan seperti pemerintah, sekolah, atau lembaga tertentu. <br> ~ Microsoft Copilot (Diringkas oleh Iqbal G.I.)
+> **Surat Resmi** memiliki cakupan yang luas, bisa untuk instansi, organisasi, & individu, sedangkan **Surat Dinas** memiliki cakupan lebih sempit yang terkhusus pada urusan kedinasan seperti pemerintah, sekolah, atau lembaga tertentu. <br> ~ Diringkas oleh Microsoft copilot
 
 <h2 id="struktur-teks-surat-resmi">Struktur Teks Surat Resmi</h2>
 <table>
@@ -237,15 +237,24 @@ Surat adalah sarana komunikasi tertulis yang digunakan untuk menyampaikan inform
    </td>
    <td><img src="../img/bindo-1-ttd.png"</td>
   </tr>
-
+ </tbody>
+</table>
  
 ---
 
-### Kredibilitas Materi: [X]
+### Referensi:
+<!-- FORMAT: APA | Nama. -->
+  [^1]:
+  - Tim Edukatif, Wahono, & Sawali. (2021). *Mahir Berbahasa Indonesia untuk SMP/MTs Kelas VII*. Penerbit Erlangga
 
-### Sumber Materi:
-  * Tim Edukatif, Wahono, & Sawali. (2021). *Mahir Berbahasa Indonesia untuk SMP/MTs Kelas VII*. Penerbit Erlangga
+  [^2]:
+  - Diva, N. (2026, Juli 1). *Jenis-jenis surat: Pengertian, klasifikasi lengkap, fungsi, dan struktur penulisannya*. Liputan6.com. https://www.liputan6.com/citizen6/read/8119669/jenis-jenis-surat
 
+  - Swawikanti, K. (2025, April 14). *Mengenal Teks Surat, Jenis, Struktur & Contohnya | Bahasa Indonesia Kelas 7*. Ruang Guru. https://www.ruangguru.com/blog/teks-surat
+    
+  [^3]:
+  - Admin. (2026). *Perbedaan surat dinas dengan surat resmi*. Paket Wisata Bromo. https://paket-wisatabromo.com/perbedaan-surat-dinas-dengan-surat-resmi-bahan-ajar-bahasa-indonesia-kurmer-bab-6-smp-mts-kelas-7
+    
 ### Kontributor:
   * **Iqbal G.I.** (Penulis, Perangkum)
   * **Microsoft Copilot Search** (Artificial Intelligence, Penjelasan Materi, Perbaikan Kalimat)
