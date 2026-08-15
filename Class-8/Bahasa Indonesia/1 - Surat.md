@@ -11,6 +11,8 @@
 ## Di Materi Ini
 * [Pengertian Surat](#pengertian-surat)
 * [Jenis Surat](#jenis-surat)
+* [Struktur Teks Surat Resmi](#struktur-teks-surat-resmi)
+
 ---
 
 # Surat
