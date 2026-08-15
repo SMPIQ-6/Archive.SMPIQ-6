@@ -233,7 +233,7 @@ Surat adalah sarana komunikasi tertulis yang digunakan untuk menyampaikan inform
      <li>Biasanya dilengkapi stempel instansi</li>
     </ul>
    </td>
-   <td><img src="../img/bindo-1-ttd"</td>
+   <td><img src="../img/bindo-1-ttd.png"</td>
   </tr>
 
  
