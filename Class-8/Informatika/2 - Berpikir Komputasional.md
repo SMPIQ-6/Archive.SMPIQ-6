@@ -32,7 +32,7 @@
 2. Proses - Menghitung nilai rata-rata
 3. Output - Nilai Akhir
    
-<img src="../img/informatika-1-flowchart.png" alt="Contoh Flowchart" width="100%">
+<img src="../img/informatika-2-1-flowchart.png" alt="Contoh Flowchart" width="500px">
 
 <h2 id="himpunan">Himpunan</h2>
 
@@ -53,6 +53,12 @@
   * Gabungan (∪) &ndash; Semua anggota dari semua himpunan
   * Irisan (∩) &ndash; Anggota yang sama
   * Selisih (–)  &ndash; Anggota yang hanya ada pada salah satu himpunan
+  * Komplemen (') &ndash; Semua elemen dalam semesta yang tidak ada dalam himpunan
+    
+<img src="../img/informatika-2-2-operasihimpunan.png" alt="Contoh Flowchart" width="500px">
+
+  > [!IMPORTANT]
+  > Karena adanya perbedaan antara materi tercatat dengan buku referensi yaitu bagian Komplemen. Berikut penjelasannya:<br><br>**Komplemen** = anggota semesta yang **bukan** anggota himpunan.<br>**Contoh**<br>Semesta S = {1, 2, 3, 4, 5}<br>Himpunan A = {1, 2, 3}<br>Maka A' atau Komplemen dari A = {4, 5}<br><br>**Sifat Penting**<br><ul><li>(A')' = A</li><li>A ∪ A' = S</li><li>A ∩ A' = Ø</li></ul>
 
 <h2 id="representasi-bilangan">Representasi Bilangan</h2>
 
